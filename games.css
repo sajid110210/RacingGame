@@ -75,3 +75,8 @@ font-size: 2.2rem;
 color:brown;    
 
 }
+#me{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+}
